@@ -1,0 +1,12 @@
+# Build output
+build/
+dist/
+# NetBeans private settings
+nbproject/private/
+# AI tool logs
+.reasonix/
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
